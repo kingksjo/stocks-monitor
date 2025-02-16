@@ -1,2 +1,2 @@
 # stocks-monitor
-A telegram bot to track the activity and news of a US Stock
+A telegram bot to track the activity and news of a US Stock with the news.
